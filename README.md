@@ -6,3 +6,4 @@ Here is a growing collection of resources and helpful commands to know when work
 
 ## Git Commmands
 -[git config](./Commands/Config.md)
+-[git add](./Commands/Add.md)
